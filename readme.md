@@ -1,0 +1,1 @@
+basit bir sözlük uygulaması
